@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=MQ Pin=ESP1-12
+Removed Pin From Net: NetName=3V3 Pin=ESP1-16
+Removed Pin From Net: NetName=MQ Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Pin From Net: NetName=3V3 Pin=S1-1
+Added Component: Designator=D3(DO-41)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED 3MM - red)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(MY_FE03W)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 3-AS"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RL1(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=+5 Pin=D3-2
+Added Pin To Net: NetName=NetD3_1 Pin=D4-2
+Added Pin To Net: NetName=FAN Pin=ESP1-4
+Added Pin To Net: NetName=MQ Pin=ESP1-6
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=MQ Pin=P2-4
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q1-2
+Added Pin To Net: NetName=FAN Pin=Q1-3
+Added Pin To Net: NetName=+5 Pin=R2-1
+Added Pin To Net: NetName=NetD3_1 Pin=RL1-4
+Added Pin To Net: NetName=+5 Pin=RL1-5
+Change Net Name : Old Net Name=NetCON1_1 New Net Name=+12
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R2-2
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=doan1 Member=Component D3 Diode
+Added Member To Class: ClassName=doan1 Member=Component D4 Led
+Added Member To Class: ClassName=doan1 Member=Component P? Header 3
+Added Member To Class: ClassName=doan1 Member=Component Q1 BC547
+Added Member To Class: ClassName=doan1 Member=Component R2 1k
+Added Member To Class: ClassName=doan1 Member=Component RL1 Relay 10A/12V
+Added Room: Name=doan1

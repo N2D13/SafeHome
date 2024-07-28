@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=+5 Pin=R1-1
+Change Component Comment : Designator=1 Old Comment=DM-OLED096-636 New Comment=OLED_DISPLAY
+Change Component Comment : Designator=R1 Old Comment=R New Comment=220
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=P2 NewDesignator=DHT11
+Change Component Designator: OldDesignator=P3 NewDesignator=PIR Senor
+Change Component Designator: OldDesignator=P4 NewDesignator=MQ2
+Change Component Designator: OldDesignator=P5 NewDesignator=FAN
+Added Component: Designator=D2(LED 3MM - red)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=+5 Pin=R1-2
+Change Net Name : Old Net Name=NetP5_2 New Net Name=NetFAN_2

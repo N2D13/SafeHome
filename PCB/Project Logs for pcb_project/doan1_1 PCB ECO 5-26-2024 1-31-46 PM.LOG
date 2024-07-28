@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R1-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=doan1 Member=Component BZ1 Buzzer
+Added Member To Class: ClassName=doan1 Member=Component Q1 BC547
+Added Member To Class: ClassName=doan1 Member=Component R2 220
+Added Member To Class: ClassName=doan1 Member=Component R3 1k

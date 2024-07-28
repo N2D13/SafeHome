@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=ESP1-17
+Change Component Designator: OldDesignator= 1 NewDesignator=1
+Added Component: Designator=D3(DO-41)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR/Terminal/3)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=RL1(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=+5 Pin=RL1-5
+Added Pin To Net: NetName=FAN Pin=Q1-2
+Added Net: Name=FAN
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD3_1 Pin=RL1-4
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=RL1-2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=RL1-1
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=RL1-3
+Added Net: Name=NetP4_3
+Added Member To Class: ClassName=doan1 Member=Component 1 DM-OLED096-636
+Added Member To Class: ClassName=doan1 Member=Component C3 1000uF
+Added Member To Class: ClassName=doan1 Member=Component C4 104
+Added Member To Class: ClassName=doan1 Member=Component D3 Diode
+Added Member To Class: ClassName=doan1 Member=Component P4 Header 3
+Added Member To Class: ClassName=doan1 Member=Component Q1 BC547
+Added Member To Class: ClassName=doan1 Member=Component RL1 Relay 10A/12V
+Added Room: Name=doan1

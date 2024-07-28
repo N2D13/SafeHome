@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=MQ Pin=ESP1-12
+Removed Pin From Net: NetName=3V3 Pin=ESP1-16
+Removed Pin From Net: NetName=MQ Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Pin From Net: NetName=3V3 Pin=S1-1
+Removed Member From Class: ClassName=doan1 Member=P4
+Added Component: Designator=P?(MY_FE03W)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 3-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MQ Pin=ESP1-6
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=MQ Pin=P2-4
+Change Net Name : Old Net Name=NetCON1_1 New Net Name=+12
+Added Member To Class: ClassName=doan1 Member=Component P1 Header 2
+Added Member To Class: ClassName=doan1 Member=Component P? Header 3
+Added Room: Name=doan1

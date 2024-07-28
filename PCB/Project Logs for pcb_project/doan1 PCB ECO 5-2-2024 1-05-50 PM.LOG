@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MQ Pin=ESP1-18
+Removed Pin From Net: NetName=DHT Pin=ESP1-19
+Added Pin To Net: NetName=DHT Pin=ESP1-18
+Added Pin To Net: NetName=MQ Pin=ESP1-19

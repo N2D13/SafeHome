@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=S1-1
+Removed Pin From Net: NetName=DHT Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Member From Class: ClassName=doan1 Member=S1
+Added Component: Designator=P?(MY_FE03)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 3-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P?-1
+Added Pin To Net: NetName=DHT Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Member To Class: ClassName=doan1 Member=Component P? Header 3

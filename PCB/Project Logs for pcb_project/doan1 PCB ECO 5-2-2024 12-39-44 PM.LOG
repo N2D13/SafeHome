@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=U1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-3
+Change Component Footprint: Designator=U1 Old Footprint=TO-92/W100 New Footprint=TO-220
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Member To Class: ClassName=doan1 Member=Component D1 Led

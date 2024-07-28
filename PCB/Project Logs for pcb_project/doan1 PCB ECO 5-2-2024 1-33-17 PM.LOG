@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Change Component Comment : Designator=C2 Old Comment=C New Comment=104
+Change Component Comment : Designator=C3 Old Comment=C New Comment=104
+Change Component Comment : Designator=C1 Old Comment=C New Comment=1000uF
+Change Component Designator: OldDesignator=  NewDesignator= 1
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Added Component: Designator=C3(CYL/D.400/LS.200)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Member To Class: ClassName=doan1 Member=Component C4 104
+Added Member To Class: ClassName=doan1 Member=Component CON1 CON DC PWR
+Added Member To Class: ClassName=doan1 Member=Component P1 Header 2
+Added Room: Name=doan1

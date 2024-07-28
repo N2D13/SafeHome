@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=BUZ Pin=BZ1-1
+Removed Pin From Net: NetName=GND Pin=BZ1-2
+Change Component Comment : Designator=ESP1 Old Comment=ESP32 DEVKIT New Comment=ESP32
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=BZ1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=BUZ Pin=R2-1
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ2_2
+Added Pin To Net: NetName=NetBZ1_2 Pin=BZ1-2
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q1-1
+Added Net: Name=NetBZ1_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-2
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=doan1 Member=Component D1 Diode
+Added Member To Class: ClassName=doan1 Member=Component D2 Led
+Added Member To Class: ClassName=doan1 Member=Component Q2 BC547
+Added Member To Class: ClassName=doan1 Member=Component R4 1k

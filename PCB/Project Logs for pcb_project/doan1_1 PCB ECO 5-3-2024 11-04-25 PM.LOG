@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=  NewDesignator=D4
+Added Pin To Net: NetName=FAN Pin=ESP1-4
+Added Pin To Net: NetName=FAN Pin=Q1-3
+Added Net: Name=FAN
